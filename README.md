@@ -4,10 +4,15 @@
 A simple command-line interface (CLI) tool to manage student records using Python. It allows users to add, view, compute average marks, and save data to a CSV file.
 
 ## 🚀 Features
-- Add student with name, roll number, and marks in 3 subjects.
-- Display all student records.
-- Calculate average marks for each student.
+- Add new student records (Name, Roll Number, and Marks in 3 subjects)
+- Input validation:
+  - Name must contain only alphabetic characters
+  - Roll number must be unique
+  - Marks must be between 0 and 100
+- View all student records
+- Calculate average marks for each student
 - Save all records to a `students.csv` file.
+- 
 
 ## 📁 Project Structure
 ```
