@@ -10,11 +10,11 @@ A simple command-line interface (CLI) tool to manage student records using Pytho
 - Save all records to a `students.csv` file.
 
 ## 📁 Project Structure
-``
-student_tracker.py   # Main application file
-README.md            # Project overview and usage instructions
-students.csv         # CSV file created after saving data (optional)``
-
+```
+- student_tracker.py   # Main application file
+- README.md            # Project overview and usage instructions
+- students.csv         # CSV file created after saving data (optional)
+```
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
